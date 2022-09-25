@@ -1,9 +1,9 @@
-## Khoi tạo project
+### Initialize project
 ```
 yarn 
 ```
 
-## Run
+### Running project
 ```
 yarn dev
 ```
